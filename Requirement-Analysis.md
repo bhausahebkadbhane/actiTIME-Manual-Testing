@@ -20,3 +20,16 @@ Testing Type: Manual Testing
 
 ## Status
 In Progress
+## Project Objective
+To verify that the actiTIME application works correctly and allows users to track working hours.
+
+## Testing Approach
+- Requirement Analysis
+- Test Scenario Preparation
+- Test Case Preparation
+- Test Execution
+- Bug Reporting
+- Test Summary Report
+
+## Expected Outcome
+All application modules should work as expected without functional errors.
